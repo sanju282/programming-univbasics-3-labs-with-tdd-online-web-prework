@@ -1,1 +1,2 @@
-# Add your variables here
+spec/calculator_spec.RUBY_VERSION
+
